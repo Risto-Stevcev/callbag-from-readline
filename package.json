@@ -1,0 +1,19 @@
+{
+  "name": "callbag-from-readline",
+  "version": "1.0.0",
+  "description": "Create a callbag from a readline interface",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": "https://github.com/Risto-Stevcev/callbag-from-readline",
+  "author": "Risto Stevcev",
+  "license": "BSD-3-Clause",
+  "devDependencies": {
+    "callbag-basics": "^3.2.0",
+    "callbag-last": "^1.1.4",
+    "callbag-to-promise": "^1.0.1",
+    "chai": "^4.2.0",
+    "mocha": "^6.2.2"
+  }
+}
